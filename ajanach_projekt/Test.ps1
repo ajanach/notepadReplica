@@ -1,0 +1,1 @@
+dir > C:\Users\Antonio\Desktop\Test.txt
